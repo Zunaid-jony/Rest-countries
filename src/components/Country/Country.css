@@ -1,0 +1,10 @@
+.one{
+    background-color: gray;
+    border-radius: 15px;
+    border: 2px solid rgb(58, 12, 226);
+    gap: 20px;
+    border-top: 4px; 
+}
+.one:hover {
+    background-color: rgb(163, 163, 158);
+  }
