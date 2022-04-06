@@ -1,10 +1,17 @@
-.one{
-    background-color: gray;
+.country{
+    background-color: rgb(87, 68, 68);
     border-radius: 15px;
     border: 2px solid rgb(58, 12, 226);
-    gap: 20px;
+   
+    color: white;
+
     border-top: 4px; 
+    
 }
-.one:hover {
+.country:hover {
     background-color: rgb(163, 163, 158);
   }
+.country img{
+    width: 200px;
+    margin-top: 20px;
+}
